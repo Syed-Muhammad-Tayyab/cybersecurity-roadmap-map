@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:EF4444,70:3B82F6,100:A855F7&height=230&section=header&text=Cyber%20Security%20Tree&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20%E2%80%A2%20Blue%20Team%20%E2%80%A2%20Purple%20Team%20%E2%80%A2%20Every%20Field%2C%20Tool%20%26%20Link&descAlignY=60&descSize=17" width="100%" alt="header"/>
+<img src="assets/header.png" width="100%" alt="Cyber Security Tree header"/>
 
 <a href="https://github.com/Syed-Muhammad-Tayyab">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=%F0%9F%8C%B4+The+complete+map+of+Cyber+Security;%F0%9F%94%B4+Red+Team+%E2%86%92+think+like+the+attacker;%F0%9F%94%B5+Blue+Team+%E2%86%92+detect%2C+respond%2C+defend;%F0%9F%9F%A3+Purple+Team+%E2%86%92+attack+%E2%86%94+detect+%E2%86%92+improve;%F0%9F%93%82+Fields%2C+tools%2C+links+and+folders+in+one+place" alt="Typing SVG" />
@@ -563,6 +563,6 @@ Misuse of offensive techniques is illegal and the author takes no responsibility
 
 ⭐ **If this tree helped you, give the repo a star!** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:3B82F6,100:0D1117&height=120&section=footer" width="100%" alt="footer"/>
+<img src="assets/footer.png" width="100%" alt="footer"/>
 
 </div>
